@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+/* import React, { useState, useEffect } from 'react';
 import firebase from '../util/firebase';
 import { v4 as uuid } from 'uuid';
 export default function UploadImage() {
@@ -56,3 +56,4 @@ export default function UploadImage() {
     </div>
   );
 }
+*/
